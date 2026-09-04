@@ -1,0 +1,7 @@
+{
+  "name": "BIS TECH Warriors - AI Assistant for Indian Standards",
+  "description": "AI-powered intelligent assistant for Indian Standards and BIS services for industries, MSMEs, startups, students, and consumers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
